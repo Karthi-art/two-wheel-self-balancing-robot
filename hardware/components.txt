@@ -1,0 +1,8 @@
+Arduino Uno
+MPU6050
+L298N Motor Driver
+2 BO Motors
+2 Wheels
+Battery Pack
+Chassis
+Jumper Wires
