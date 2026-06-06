@@ -42,5 +42,3 @@ ENB -> D6
 3. PID controller generates correction.
 4. Motors rotate to balance the robot.
 
-## Author
-Karthiekeyan
