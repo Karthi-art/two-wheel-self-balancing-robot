@@ -1,0 +1,11 @@
+# Libraries
+
+Wire.h
+MPU6050.h
+
+Install:
+1. Open Arduino IDE
+2. Sketch
+3. Include Library
+4. Manage Libraries
+5. Install MPU6050 library
